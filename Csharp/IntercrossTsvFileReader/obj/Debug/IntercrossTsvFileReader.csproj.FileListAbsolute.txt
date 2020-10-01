@@ -1,0 +1,7 @@
+C:\Users\admin\Documents\MyProjects\IntercrossTsvFileReader\IntercrossTsvFileReader\bin\Debug\IntercrossTsvFileReader.exe.config
+C:\Users\admin\Documents\MyProjects\IntercrossTsvFileReader\IntercrossTsvFileReader\bin\Debug\IntercrossTsvFileReader.exe
+C:\Users\admin\Documents\MyProjects\IntercrossTsvFileReader\IntercrossTsvFileReader\bin\Debug\IntercrossTsvFileReader.pdb
+C:\Users\admin\Documents\MyProjects\IntercrossTsvFileReader\IntercrossTsvFileReader\obj\Debug\IntercrossTsvFileReader.csprojAssemblyReference.cache
+C:\Users\admin\Documents\MyProjects\IntercrossTsvFileReader\IntercrossTsvFileReader\obj\Debug\IntercrossTsvFileReader.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\MyProjects\IntercrossTsvFileReader\IntercrossTsvFileReader\obj\Debug\IntercrossTsvFileReader.exe
+C:\Users\admin\Documents\MyProjects\IntercrossTsvFileReader\IntercrossTsvFileReader\obj\Debug\IntercrossTsvFileReader.pdb
