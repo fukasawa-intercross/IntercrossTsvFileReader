@@ -46,8 +46,10 @@ namespace IntercrossTsvFileReader
                 {
                     //ファイルからTSVデータを逐次的に読み取る
                     foreach (TsvElement tsvElement in ReadTsvFile(fileStream))
+                    {
+                        //☆ 読み取った内容をコンソールへ出力。出力方法を変更する場合はここを変更
                         Console.WriteLine(tsvElement.ToString());
-
+                    }
                     //ファイルを最後まで読み取ったら、100msec待つ
                     await Task.Delay(TimeSpan.FromMilliseconds(100));
                 }
