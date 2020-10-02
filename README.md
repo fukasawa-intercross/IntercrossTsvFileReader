@@ -1,6 +1,6 @@
 # IntercrossTsvFileReader
 
-intercross-311 DAQ MasterのTSV保存ファイルの読み取りサンプルアプリケーション
+intercross-311 DAQ MasterのTSV保存ファイルを読み取るサンプルアプリケーション
 
 # ビルド方法
 
